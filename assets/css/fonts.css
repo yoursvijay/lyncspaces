@@ -1,0 +1,37 @@
+/* mukta-malar-300 - latin */
+@font-face {
+  font-family: 'Mukta-Malar-light';
+  font-style: normal;
+  src: url('../fonts/mukta-malar-v4-latin-300.eot'); /* IE9 Compat Modes */
+  src: local('Mukta Malar Light'), local('MuktaMalar-Light'),
+       url('../fonts/mukta-malar-v4-latin-300.eot?#iefix') format('embedded-opentype'), /* IE6-IE8 */
+       url('../fonts/mukta-malar-v4-latin-300.woff2') format('woff2'), /* Super Modern Browsers */
+       url('../fonts/mukta-malar-v4-latin-300.woff') format('woff'), /* Modern Browsers */
+       url('../fonts/mukta-malar-v4-latin-300.ttf') format('truetype'), /* Safari, Android, iOS */
+       url('../fonts/mukta-malar-v4-latin-300.svg#MuktaMalar') format('svg'); /* Legacy iOS */
+}
+/* mukta-malar-regular - latin */
+@font-face {
+  font-family: 'Mukta-Malar-regular';
+  font-style: normal;
+  src: url('../fonts/mukta-malar-v4-latin-regular.eot'); /* IE9 Compat Modes */
+  src: local('Mukta Malar Regular'), local('MuktaMalar-Regular'),
+       url('../fonts/mukta-malar-v4-latin-regular.eot?#iefix') format('embedded-opentype'), /* IE6-IE8 */
+       url('../fonts/mukta-malar-v4-latin-regular.woff2') format('woff2'), /* Super Modern Browsers */
+       url('../fonts/mukta-malar-v4-latin-regular.woff') format('woff'), /* Modern Browsers */
+       url('../fonts/mukta-malar-v4-latin-regular.ttf') format('truetype'), /* Safari, Android, iOS */
+       url('../fonts/mukta-malar-v4-latin-regular.svg#MuktaMalar') format('svg'); /* Legacy iOS */
+}
+/* mukta-malar-800 - latin */
+@font-face {
+  font-family: 'Mukta-Malar-extra-bold';
+  font-style: normal;
+  src: url('../fonts/mukta-malar-v4-latin-800.eot'); /* IE9 Compat Modes */
+  src: local('Mukta Malar ExtraBold'), local('MuktaMalar-ExtraBold'),
+       url('../fonts/mukta-malar-v4-latin-800.eot?#iefix') format('embedded-opentype'), /* IE6-IE8 */
+       url('../fonts/mukta-malar-v4-latin-800.woff2') format('woff2'), /* Super Modern Browsers */
+       url('../fonts/mukta-malar-v4-latin-800.woff') format('woff'), /* Modern Browsers */
+       url('../fonts/mukta-malar-v4-latin-800.ttf') format('truetype'), /* Safari, Android, iOS */
+       url('../fonts/mukta-malar-v4-latin-800.svg#MuktaMalar') format('svg'); /* Legacy iOS */
+}
+
